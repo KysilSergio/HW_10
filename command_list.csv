@@ -1,0 +1,96 @@
+    1  help
+    2  help ls
+    3  man ls
+    4  ls
+    5  help cd
+    6  ls
+    7  cd Postman.lnk 
+    8  cd Postman/
+    9  cd ..
+   10  cd /
+   11  cd ~
+   12  ls
+   13  cd Pictures/
+   14  pwd 
+   15  cd Pictures/screenshots
+   16  cd~
+   17  cd ~
+   18  ls -l
+   19  touch file.txt
+   20  ls
+   21  clear
+   22  vim
+   23  cat file.txt
+   24  mkdir test_dir
+   25  ls-l
+   26  totak l
+   27  cp file.txt test_dir
+   28  rm file.txt
+   29  claer
+   30  clear
+   31  ping google.com
+   32  date
+   33  systeminfo
+   34  ipconfig
+   35  ipconfig -all
+   36  df -h
+   37  whoami
+   38  clfer
+   39  clear
+   40  ls -l
+   41  clear
+   42  git config --get user.name
+   43  cd
+   44  cd /c/user/user/desktop/hw/git
+   45  clear
+   46  cd /c/users/user/desktop/git
+   47  cd: /c/users/user/desktop/hw
+   48  cd /c/Users/<user>/desktop/hw
+   49  cd/c/users/user/git
+   50  cd /c/users/user/desktop/git
+   51  git clone https://github.com/KysilSergio/HW_10..git
+   52  pwd
+   53  cd git
+   54  pwd
+   55  git config --global user.namen "KysilSergio"
+   56  git config --global user.name "KysilSergio"
+   57  git config --global user.email ksv23111979@gmail.com
+   58  git config --global user name
+   59  git config --global user.name
+   60  git config --global user.email
+   61  git clone https://github.com/KysilSergio/HW_10..git
+   62  git clone https://github.com/KysilSergio/HW_10..git
+   63  git clone https://github.com/KysilSergio/HW_10.git
+   64  cd hw_10
+   65  touch text_ignore.txt
+   66  nano .gitignore
+   67  vim .gitignore
+   68  git status
+   69  git add.
+   70  git add *
+   71  git commit -m "Add text_ignore.txt to .gitignore"
+   72  git commit -m "Add text_ignore.txt and create to .gitignore and create text_ignore.txt file"
+   73  git status
+   74  git add *
+   75  git add * .gitignore
+   76  git add .
+   77  git commit -m "Add text_ignore.txt and create to .gitignore and create text_ignore.txt file"
+   78  touch main_test.txt
+   79  git add .
+   80  git add main_test.txt
+   81  git status
+   82  git commit -m "Add empty main_test"
+   83  git checkout -b develop
+   84  touch develop_test.txt
+   85  git add .
+   86  git add develop_test.txt
+   87  git commit -m "added devtlop_test"
+   88  vim develop_test.txt
+   89  git status
+   90  git add .
+   91  git add develop_test.txt
+   92  git commit -m "update develop_test with changes"
+   93  git checkout main
+   94  git merge develop
+   95  git log
+   96  history > command_list.csv
